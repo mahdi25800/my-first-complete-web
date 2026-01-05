@@ -83,3 +83,43 @@ nav{
     max-width: 585px;
     vertical-align: middle;
 }
+.details{
+    padding-top: 130px;
+    text-align: center;
+
+}
+
+.details-1{
+    width: 71%;
+    max-width: 1140;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fff8f3;
+    padding: 131px 156px;
+}
+
+.details-2 .details-4{
+    max-width: 827px;
+}
+.details-2 h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.details-2 p{
+    font-size: 18px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    color: #757575;
+}
+.details-3{
+    display: flex;
+    justify-content: space-around;
+}
+.details-3 p{
+    font-size: 20px;
+    line-height: 30px;
+    color: #757575;
+}
+.details-4 h4{
+    font-size: 20px;
+}
