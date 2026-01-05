@@ -31,6 +31,7 @@ span{
     font-size: 20px;
     font-weight: bold;
     color: white;
+    cursor: pointer;
 }
 .open-sans{
   font-family: "Open Sans", sans-serif;
@@ -40,6 +41,9 @@ span{
 header{
     background-color: #fff8f3;
     padding-top: 50px;
+    background-image: url("../images/developer.png"),url("../images/header_bg.png");
+    background-position: top left,bottom right;
+    background-repeat: no-repeat;
 }
 nav{
     width: 71%;
@@ -48,4 +52,34 @@ nav{
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
+}
+.benner{
+    /* border: 1px solid rebeccapurple; */
+    margin: 47px 38px 0 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about h2{
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+    margin-bottom: 5px;
+    max-width: 585px;
+}
+.about h1{
+    font-size: 85px;
+    font-weight: bold;
+    color: #181818;
+    margin-bottom: 20px;
+}
+.about p{
+    font-size: 18px;
+    color: #757575;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.img img{
+    max-width: 585px;
+    vertical-align: middle;
 }
