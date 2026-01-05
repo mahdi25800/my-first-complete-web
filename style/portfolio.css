@@ -123,3 +123,57 @@ nav{
 .details-4 h4{
     font-size: 20px;
 }
+.third-number{
+    background-color: #ffffff;
+}
+.new{
+    padding-top: 130px;
+    text-align: center;
+    margin: 0 auto;
+}
+.new-1{
+    width: 71%;
+    max-width: 1140;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 131px 156px;
+}
+.new-2 h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.new-2 p{
+    font-size: 18px;
+    margin-bottom: 30px;
+    line-height: 30px;
+    color: #757575;
+}
+.box{
+    width: 71%;
+    max-width: 1140;
+    margin: 0 auto;
+    /* background-color: #bbb1b1; */
+    display: flex;
+    text-align: left;
+    gap: 24px;
+}
+.new-3{
+    padding: 30px;
+    /* border:1px solid #181818; */
+    box-shadow: 0 6px 50px 0 #0000003d;
+    max-width: 267px;
+}
+.new-3 img{
+    max-width: 44px;
+    margin-bottom: 30px;
+}
+.new-3 h2{
+    font-size: 20px;
+    color: #181818;
+    margin-bottom: 20px;
+}
+.new-3 p{
+    font-size: 16px;
+    line-height: 28px;
+}
